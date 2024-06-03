@@ -9,7 +9,7 @@ public class CalculoMedia{
         double nota3 = 7.5;
         double nota4 = 9.0;
 
-        double soma = (nota1 + nota2 + nota3 + nota4) / 4;
-        System.out.println(soma);
+        double media = (nota1 + nota2 + nota3 + nota4) / 4;
+        System.out.println(media);
     }
 }
