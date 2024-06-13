@@ -1,3 +1,4 @@
+package Trabalhos;
 public class CalculoMedia{
     public static void main(String[] args){
         calculomedia();

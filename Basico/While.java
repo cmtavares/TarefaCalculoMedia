@@ -1,7 +1,10 @@
-public class For {
+package Basico;
+public class While {
     public static void main(String[] args){
-        for(var i = 0; i < 10; i++){
+        int num = 0;
+        while(num < 10){
             System.out.println("10 vezes");
+            num++;
         }
     }
 }
